@@ -24,4 +24,3 @@ function preprendKitten(name) {
   kittens2 = [name, ...kittens]
   return kittens2
 }
-
